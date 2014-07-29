@@ -2,7 +2,7 @@
 /* global Tests */
 /* global Parser */
 
-var Rewrite = (function() {
+var Trs = (function() {
 
   //var VAR_REGEX = /^[a-zA-Z]\d*?_?$/;
   var VAR_REGEX = /^[A-Z]+[a-zA-Z\d]*?_?$/;
