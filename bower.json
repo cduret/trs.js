@@ -1,0 +1,9 @@
+{
+  "name": "rewrite.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~1.9",
+    "parsimmon" : "https://github.com/jayferd/parsimmon.git#v0.5.1",
+    "pjs" : "v5.1.1"
+  }
+}
